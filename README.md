@@ -1,2 +1,2 @@
 # Wallpapers:
-![Alt text]([MPTHVYK.png](https://github.com/GdevMan/cool-wallpapers/blob/main/MPTHVYk.png)
+![Cool Wallpaper](https://github.com/GdevMan/cool-wallpapers/raw/main/MPTHVYk.png)
